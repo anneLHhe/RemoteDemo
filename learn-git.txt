@@ -1,2 +1,4 @@
-remote git learning
-test for git command
+remote git learning.
+test for git command.
+come on.
+of course.

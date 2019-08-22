@@ -1,11 +1,11 @@
-<<<<<<< Updated upstream
+
 remote git learning.
 test for git command.
 come on.
 of course.
-=======
+
 remote git learning
 test for git command
 conflicts
 how can i do?
->>>>>>> Stashed changes
+
